@@ -1,0 +1,14 @@
+print("You were born in 2000, and it's 2019 now.")
+
+print(" ")
+
+print("You're "+ str(2019 - 2000) + " years old.")
+print("In dog years, you're " + str((2019 - 2000)*7) + " years old.")
+
+print(" ")
+
+print("Ada Lovelace is " + str(2000 - 1842) + " years older than you.")
+print("Grace Hopper is " + str(2000 - 1906) + " years older than you.")
+
+print(" ")
+
